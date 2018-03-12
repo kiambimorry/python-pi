@@ -1,1 +1,3 @@
-print("Hello world")
+msg = "Hello git"
+def main(msg):
+    print(msg)
